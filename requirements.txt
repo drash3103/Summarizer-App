@@ -1,0 +1,4 @@
+txtai[all]
+streamlit
+PyPDF2
+requests
